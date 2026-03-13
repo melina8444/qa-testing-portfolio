@@ -35,7 +35,7 @@ Herramientas utilizadas:
 
 ## Contenido del portfolio
 
-## Test Cases
+### Test Cases
 
 Diseño de casos de prueba para validar funcionalidades del sistema.
 
@@ -46,7 +46,7 @@ Archivos:
 
 ---
 
-## Bug Reports
+### Bug Reports
 
 Documentación de errores encontrados durante las pruebas.
 
@@ -56,7 +56,7 @@ Archivos:
 
 ---
 
-## Exploratory Testing
+### Exploratory Testing
 
 Notas de testing exploratorio para analizar el comportamiento del sistema.
 
@@ -93,11 +93,24 @@ Archivos:
 ### Vista de productos después del login
 ![Products page](test-evidence/cart.png)
 
-### Producto agregado al carrito
+### Producto 1 agregado al carrito
 ![Product added](test-evidence/producto1-agregado-cart.png)
 
-### Vista del carrito
-![Cart view](test-evidence/cart.png)
+### Producto 2 agregado al carrito
+![Product added](test-evidence/producto2-agregado-cart.png)
 
 ### Productos agregados
 ![Products in cart](test-evidence/cart-productos.png)
+
+
+## Objetivo del proyecto
+
+Este repositorio fue creado como práctica de QA Manual con el objetivo de demostrar habilidades básicas de testing funcional, incluyendo:
+
+- análisis de funcionalidades
+- diseño de casos de prueba
+- documentación de defectos
+- ejecución de pruebas
+- registro de evidencia
+
+El proyecto simula un flujo básico de trabajo utilizado en procesos reales de testing de software.
