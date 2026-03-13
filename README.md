@@ -6,7 +6,7 @@ El objetivo de este portfolio es demostrar habilidades básicas de testing utili
 
 ---
 
-# Aplicación probada
+## Aplicación probada
 
 https://www.saucedemo.com/
 
@@ -14,7 +14,26 @@ Aplicación web de e-commerce utilizada comúnmente para prácticas de testing.
 
 ---
 
-# Contenido del portfolio
+## Herramientas y conceptos utilizados
+
+Durante la elaboración de este portfolio se aplicaron conceptos básicos de QA Manual:
+
+- Diseño de **Test Cases**
+- **Exploratory Testing**
+- Documentación de **Bug Reports**
+- Ejecución de pruebas funcionales
+- Documentación de evidencia de pruebas
+
+Herramientas utilizadas:
+
+- Git
+- GitHub
+- Navegador web (Chrome / DevTools)
+- Aplicación de prueba: SauceDemo
+
+---
+
+## Contenido del portfolio
 
 ## Test Cases
 
@@ -47,7 +66,7 @@ Archivos:
 
 ---
 
-# Funcionalidades probadas
+## Funcionalidades probadas
 
 - Login de usuario
 - Validación de credenciales
@@ -58,7 +77,7 @@ Archivos:
 
 ---
 
-# Tipos de testing realizados
+## Tipos de testing realizados
 
 - Functional Testing
 - Manual Testing
@@ -71,8 +90,8 @@ Archivos:
 ### Login exitoso
 ![Login success](test-evidence/login-success.png)
 
-### Muestra productos
-![Login success](test-evidence/cart.png)
+### Vista de productos después del login
+![Products page](test-evidence/cart.png)
 
 ### Producto agregado al carrito
 ![Product added](test-evidence/producto1-agregado-cart.png)
