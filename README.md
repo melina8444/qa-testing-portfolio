@@ -1,5 +1,9 @@
 # QA Testing Portfolio
 
+![QA](https://img.shields.io/badge/QA-Manual%20Testing-blue)
+![Testing](https://img.shields.io/badge/Testing-Functional-green)
+![Status](https://img.shields.io/badge/Project-Portfolio-orange)
+
 Este repositorio contiene ejemplos de prácticas de **QA Manual (Software Testing)** realizadas sobre una aplicación web de prueba.
 
 El objetivo de este portfolio es demostrar habilidades básicas de testing utilizadas en proyectos de calidad de software.
@@ -8,7 +12,7 @@ El objetivo de este portfolio es demostrar habilidades básicas de testing utili
 
 ## Aplicación probada
 
-https://www.saucedemo.com/
+[SauceDemo](https://www.saucedemo.com/)
 
 Aplicación web de e-commerce utilizada comúnmente para prácticas de testing.
 
@@ -30,6 +34,20 @@ Herramientas utilizadas:
 - GitHub
 - Navegador web (Chrome / DevTools)
 - Aplicación de prueba: SauceDemo
+
+---
+
+## Skills demostradas
+
+Durante la elaboración de este proyecto se aplicaron habilidades básicas de Quality Assurance:
+
+- Análisis de funcionalidades
+- Diseño de casos de prueba (Test Cases)
+- Testing funcional manual
+- Exploratory Testing
+- Documentación de defectos (Bug Reporting)
+- Ejecución de pruebas
+- Registro de evidencia de testing
 
 ---
 
@@ -114,3 +132,11 @@ Este repositorio fue creado como práctica de QA Manual con el objetivo de demos
 - registro de evidencia
 
 El proyecto simula un flujo básico de trabajo utilizado en procesos reales de testing de software.
+
+## Autor
+
+Melina Yanguez  
+Analista en Sistemas  
+
+GitHub Portfolio: QA Manual Testing Practice
+Portfolio de práctica enfocado en QA Manual y testing funcional.
