@@ -138,5 +138,5 @@ El proyecto simula un flujo básico de trabajo utilizado en procesos reales de t
 Melina Yanguez  
 Analista en Sistemas  
 
-GitHub Portfolio: QA Manual Testing Practice
+GitHub Portfolio: QA Manual Testing Practice.
 Portfolio de práctica enfocado en QA Manual y testing funcional.
