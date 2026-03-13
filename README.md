@@ -64,3 +64,21 @@ Archivos:
 - Manual Testing
 - Exploratory Testing
 - Bug Reporting
+
+
+## Evidencia de pruebas
+
+### Login exitoso
+![Login success](test-evidence/login-success.png)
+
+### Muestra productos
+![Login success](test-evidence/cart.png)
+
+### Producto agregado al carrito
+![Product added](test-evidence/producto1-agregado-cart.png)
+
+### Vista del carrito
+![Cart view](test-evidence/cart.png)
+
+### Productos agregados
+![Products in cart](test-evidence/cart-productos.png)
