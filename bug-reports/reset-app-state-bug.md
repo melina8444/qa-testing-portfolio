@@ -23,6 +23,12 @@ The cart counter resets to 0, but product buttons still display "Remove".
 
 ## Severity
 
+## Evidence
+
+Screenshot showing the issue after clicking "Reset App State".
+
+![Reset App State Bug](../test-evidence/reset-app-state-bug.png)
+
 Medium
 
 ## Notes
